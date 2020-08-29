@@ -1,5 +1,3 @@
-# The-World-RL
-
 # What is The World:
 It's a Reinforcement Learning problem introduced in udacity's reinforcement learning ud600 course. The problem is very similar to The Frozen Lake problem by openAI. The main goal is to make the agent start from a specfic point in the world and find the best way that maximizes the reward that's gitting along the way to high reward. 
 
